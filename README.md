@@ -23,6 +23,6 @@ More cat videos??
   <summary>Keep it a secret, punk!</summary>
   
   Just visit this tiktok:
-  [https://www.tiktok.com/@daomeocute](https://www.tiktok.com/@daomeocute]
-  [https://www.tiktok.com/tag/catsoftiktok](https://www.tiktok.com/tag/catsoftiktok)
+  - [https://www.tiktok.com/@daomeocute](https://www.tiktok.com/@daomeocute)
+  - [https://www.tiktok.com/tag/catsoftiktok](https://www.tiktok.com/tag/catsoftiktok)
 </details>
