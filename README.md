@@ -6,8 +6,10 @@
 - 👯 I’m looking to collaborate on anything, seriously.
 - 📫 Reach me on twitter: [@candra_dev1](https://twitter.com/candra_dev1)
 
-<img src="https://user-images.githubusercontent.com/113872927/236601133-5e0a91b6-4af3-457b-8fb0-0c9b303a4b54.jpg" width="50%">
-
+<p float="left">
+  
+  <img src="https://user-images.githubusercontent.com/113872927/236601133-5e0a91b6-4af3-457b-8fb0-0c9b303a4b54.jpg" width="50%">
+</p>
 <details>
   <summary>Here you are</summary>
   
@@ -25,4 +27,10 @@ More cat videos??
   Just visit this tiktok:
   - [https://www.tiktok.com/@daomeocute](https://www.tiktok.com/@daomeocute)
   - [https://www.tiktok.com/tag/catsoftiktok](https://www.tiktok.com/tag/catsoftiktok)
+</details>
+
+<details>
+  <summary>Memes?</summary>
+  
+  ![7nphxs](https://github.com/doaortu/doaortu/assets/113872927/566f4726-7115-42f3-8684-a5c235a13d7b)
 </details>
